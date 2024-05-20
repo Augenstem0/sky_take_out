@@ -11,3 +11,12 @@ sky:
     accessKeyId: LTAI5tFfnY55FZqgxCWqjEw4
     accessKeySecret: WqLXXiN6BlxBdA5ypyVDU3K35g4h76
     bucketName: sky-take-out-lovely
+
+  redis:
+    host: localhost
+    port: 6379
+    password: '040611'
+
+  wechat:
+    appid: wx28942adc2edb220d
+    secret: ca80ea72f6f06a95dbecc6c0af6b57d6
